@@ -1,0 +1,28 @@
+button {
+  border-radius: 1rem;
+}
+
+button:hover {
+  background-color: lightgray;
+}
+
+button:active {
+  background-color: darkgray;
+}
+
+header {
+  font-family: 'Galada', cursive;
+  color: brown;
+  font-size: 36px;
+}
+
+teamnumber {
+  color: black;
+  font-size: 20px;
+}
+
+subheader {
+  font-family: 'Galada', cursive;
+  color: brown;
+  font-size: 24px;
+}
